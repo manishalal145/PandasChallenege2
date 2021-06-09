@@ -17,7 +17,7 @@ The final report contains the following information:
 ![Image](Images/bottam_performing_schools.png)
 
 ### Math Scores by Grade
-![Image](Images/mathscorebygrade.png)
+![Image](Images/mathsscorebygrade.png)
 
 ### Reading Scores by Grade
 ![Image](Images/readingscorebygrade.png)
